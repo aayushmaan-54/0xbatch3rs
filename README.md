@@ -6,6 +6,8 @@ Batchers is a platform for sharing and interacting with `.bat` file scripts. Use
 - **Next.js**: Frontend & Backend
 - **JWT**: Authentication and Authorization
 - **Tailwind CSS**: A utility-first CSS framework
+- **React-Redux-Toolkit**: State management
+- **MongoDB + Mongoose**: Database
 
 
 ## Features:

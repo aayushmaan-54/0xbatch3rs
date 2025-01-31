@@ -26,7 +26,7 @@ export default function LightModeWarning() {
         className="p-2 rounded-full transition-colors hover:bg-brand-tertiary"
         aria-label="Toggle light mode"
       >
-        <Sun className="size-6" />
+        <Sun className="size-6 text-white" />
       </button>
 
       <Modal

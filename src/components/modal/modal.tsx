@@ -36,7 +36,7 @@ export default function Modal({ content, isOpen, onClose }: ModalPropsTypes) {
             >
               <X className="size-4 stroke-text-light" />
             </button>
-            <div className="mt-4 font-sans font-semibold pb-2 pt-3">{content}</div>
+            <div className="mt-4 font-sans font-semibold pb-2 pt-3 text-text-light">{content}</div>
           </div>
         </div>
       </div>

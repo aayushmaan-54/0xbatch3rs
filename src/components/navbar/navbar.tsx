@@ -2,7 +2,6 @@ import Icon from "@/assets/icons";
 import GlitchText from "../glitch-text/glitch-text";
 import LightModeWarning from "./light-mode-warning";
 import Link from "next/link";
-import cn from "@/lib/cn";
 
 
 export default function Navbar() {

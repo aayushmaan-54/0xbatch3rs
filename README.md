@@ -77,3 +77,11 @@ Batchers is a platform for sharing and interacting with `.bat` file scripts. Use
 https://supabase.com/docs/guides/auth/server-side/nextjs
 https://supabase.com/docs/guides/auth/server-side
 -->
+
+
+- Login/Signup intercept routechanges
+
+- **Pagination + Infinite Scroll**: Load initial feed, fetch next page on scroll near end.
+- **Feed Order**: Followed users' latest scripts → Trending (24h) → Recent uploads → Most commented → Randomized.
+- **Sorting**: Fixed order for top sections, randomized in last section.
+- **Performance**: API Batching, debounce scroll, cache responses, search debounce.

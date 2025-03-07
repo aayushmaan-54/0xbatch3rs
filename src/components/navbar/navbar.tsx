@@ -32,7 +32,7 @@ export default function Navbar() {
         <div className="flex items-center space-x-2">
           <LightModeWarning />
           <Link
-            href={'/sign-in'}
+            href={'/auth/login'}
             className="bg-accent-green-dark/30 text-accent-green-light px-2 py-1 border border-accent-green-light rounded-md font-medium text-xs sm:text-lg">
             Sign In
           </Link>

@@ -2,7 +2,7 @@ const FAQs = [
   {
     id: 1,
     question: "What is Batchers?",
-    answer: "Batchers is a community-driven platform for sharing, discovering, and evaluating `.bat` scripts. Users can upload scripts, upvote, downvote, and report them for malicious activity.",
+    answer: "Batchers is a community-driven platform for sharing, discovering, and evaluating `.bat` scripts. Users can upload scripts, upvote, downvote, and mark them as potentially malicious for awareness.",
   },
   {
     id: 2,
@@ -12,12 +12,12 @@ const FAQs = [
   {
     id: 3,
     question: "Are there any restrictions on the scripts I can upload?",
-    answer: "No, there are no content restrictions. However, users are advised to report scripts that seem malicious.",
+    answer: "No, there are no content restrictions. However, users are encouraged to flag scripts that seem potentially harmful so others can be cautious.",
   },
   {
     id: 4,
     question: "Can I edit or remove my uploaded scripts?",
-    answer: "Yes, you can edit or delete your scripts through your profile settings.",
+    answer: "Yes, you can edit or delete your scripts through your profile settings or from your post page",
   },
   {
     id: 5,
@@ -27,7 +27,7 @@ const FAQs = [
   {
     id: 6,
     question: "Can beginners use Batchers safely?",
-    answer: "Yes, but it’s recommended to read scripts carefully before running them. Look for community feedback and votes to determine safety.",
+    answer: "Yes, but it's recommended to read scripts carefully before running them. Look for community feedback, votes, and marked warnings to determine safety.",
   },
   {
     id: 7,

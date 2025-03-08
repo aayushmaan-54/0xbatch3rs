@@ -14,7 +14,7 @@ export default function Navbar() {
             <Icon.Logo className="fill-accent-green-light size-5 sm:size-7" />
             <GlitchText
               text="0xbatch3rs"
-              className="font-[vt323] text-3xl hidden sm:block"
+              className="font-vt323 text-3xl hidden sm:block"
             />
           </Link>
         </div>

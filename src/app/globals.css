@@ -9,6 +9,8 @@
   --color-accent-green: #00cc63;
   --color-accent-green-dark: #00b356;
   --color-text-light: #ffffff;
+
+  --font-vt323: var(--font-vt323);
 }
 
 

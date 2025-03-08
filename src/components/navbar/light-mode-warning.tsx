@@ -50,7 +50,7 @@ export default function LightModeWarning() {
             <div className="mt-1 relative z-20 flex flex-col font-medium">
               <GlitchText 
                 text="⚠️ Alert"
-                className="font-[vt323] text-3xl font-bold mb-2"
+                className="font-vt323 text-3xl font-bold mb-2"
               />
               {selectedWarning}
             </div>

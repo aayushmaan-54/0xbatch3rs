@@ -20,7 +20,7 @@ export default function Hero() {
 
       <div className="z-10 flex flex-col justify-center items-center mt-10">
         <Badge text="Automate. Share. Execute." />
-        <GlitchText text="Batchers: " className="text-5xl sm:text-7xl md:text-8xl font-bold mt-5" />
+        <GlitchText text="Batchers: " className="text-5xl font-vt323 sm:text-7xl md:text-8xl font-bold mt-5" />
 
         <p className="text-3xl sm:text-5xl md:text-6xl font-bold text-center mt-2">
           <span className="bg-gradient-to-b from-text-light to-text-light/60 bg-clip-text text-transparent">Share, Discover, </span>

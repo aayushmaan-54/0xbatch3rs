@@ -13,7 +13,7 @@ export default function FeaturesPage() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 px-4">
           {features.map((feature) => (
-            <div key={feature.heading} className="bg-accent-green-dark/10 border border-accent-green-light rounded-md px-3 py-3 sm:w-[300px] md:w-[400px] sm:px-4 hover:bg-accent-green-dark/20 cursor-pointer">
+            <div key={feature.heading} className="bg-accent-green-dark/10 border border-accent-green-light rounded-md px-3 py-3 sm:w-[300px] md:w-[400px] sm:px-4 hover:bg-accent-green-dark/20 transition-all duration-150 cursor-pointer">
               <div className="flex items-center gap-2">
                 <feature.icons className="stroke-accent-green-light size-10" />
                 <h3 className="text-accent-green-light text-lg font-bold sm:text-xl">{feature.heading}</h3>
